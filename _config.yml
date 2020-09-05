@@ -6,10 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Andrew Block
 
 # Your name to show in the footer
-author: Some Person
+author: Andrew Block
+
+#Site Description
+description: A place for interesting things
 
 # --- List of links in the navigation bar --- #
 
