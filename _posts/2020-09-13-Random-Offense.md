@@ -44,9 +44,9 @@ First, we need to determine what personnel we'll be using. Some personnel are ea
 
 Once we have our personnel, we can determine blocking. On a passing play, the OL will block as will the RBs and TEs from time to time. I do not know roughly how often the RBs and TEs are kept in to block. For this first draft, I will assume they block 50% of the time. This isn't accurate, but I'll keep looking to find this info. OL blocking is complicated, and it isn't something I understand perfectly. For this draft, I will simply say that the OL is blocking and can add in more complexity as I learn more.
 
-Once we know who is blocking, we can assign routes. Each WR will receive a route, as will the TEs and RBs who are not blocking. There are 9 basic routes that a WR will run, seen here.
+Once we know who is blocking, we can assign routes. Each WR will receive a route, as will the TEs and RBs who are not blocking. There are 9 basic routes that a WR will run, which can be seen at the folling link:
 
-![Route Tree]"assets/img/football-route-tree.jpg"
+[Route Tree](https://www.thephinsider.com/2016/6/20/11975890/football-101-wide-receiver-route-tree)
 
 I will assign one of these at random to each WR. TEs that are not block will also receive one of these routes. RBs will receive different routes, as they cannot run the full route tree from the backfield. They will be assigned only the flat, slant, and wheel route. The wheel route is not shown on the diagram, but bascially just means that the RB starts by running an out from the backfield and the turns upfield, as in a go route.
 
