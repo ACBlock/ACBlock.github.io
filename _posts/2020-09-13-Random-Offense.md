@@ -61,6 +61,7 @@ There is, of course, more complexity that can be added to the routess and blocki
 My ultimate goal for this project is to be able to generate an entire random playbook and even generate the playbook and name of the play. For now, I will be content to create text outlining responsibilities on each play. This should be fun project.
 
 Thanks for reading, 
+
 Andy 
 
 
