@@ -46,7 +46,7 @@ Once we have our personnel, we can determine blocking. On a passing play, the OL
 
 Once we know who is blocking, we can assign routes. Each WR will receive a route, as will the TEs and RBs who are not blocking. There are 9 basic routes that a WR will run, seen here.
 
-![Route Tree](https://www.thephinsider.com/2016/6/20/11975890/football-101-wide-receiver-route-tree)
+![Route Tree]"assets/img/football-route-tree.jpg"
 
 I will assign one of these at random to each WR. TEs that are not block will also receive one of these routes. RBs will receive different routes, as they cannot run the full route tree from the backfield. They will be assigned only the flat, slant, and wheel route. The wheel route is not shown on the diagram, but bascially just means that the RB starts by running an out from the backfield and the turns upfield, as in a go route.
 
