@@ -18,11 +18,11 @@ description: A place for interesting things
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "/assets/AndrewBlockResume-3-9-21.pdf"
+  Resume: "/assets/AndrewBlockResume-2-14-24.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://ACBlock.github.io"
 
 # --- Logo --- #
 
@@ -47,7 +47,7 @@ social-network-links:
   github: ACBlock
   twitter: AndrewCBlock
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Andrew Block
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
