@@ -3,7 +3,11 @@ layout: page
 title: Writing
 ---
 # Short Stories
-## These represents works in progress and are subject to change
+
+### Notification
+
+{: .box-note}
+**Note:** These stories are works in progress and are subject to change.
 
 ### The Party
 This is a story that I am writing as a part of Troy Wilderson's Short Story Nitty Gritty class taught through The Loft in Minneapolis. It will be updated weekly as I make new submissions. The name is subject to change.
