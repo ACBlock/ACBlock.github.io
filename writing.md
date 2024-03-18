@@ -11,7 +11,7 @@ title: Writing
 
 ### The Party
 This is a story that I am writing as a part of Troy Wilderson's Short Story Nitty Gritty class taught through The Loft in Minneapolis. It will be updated weekly as I make new submissions. The name is subject to change.
-[The Incident at Jewel Lake](assets/Block_Week 3-1.pdf)
+[The Incident at Jewel Lake](assets/Block_Week 4.pdf)
 
 
 ### Cold Nights at the Observatory
