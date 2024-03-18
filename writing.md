@@ -4,7 +4,7 @@ title: Writing
 ---
 # Short Stories
 
-### Notification
+### A Note to the Reader
 
 {: .box-note}
 **Note:** These stories are works in progress and are subject to change.
