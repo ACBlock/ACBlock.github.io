@@ -20,7 +20,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "/assets/AndrewBlockResume-2-14-24.pdf"
   Writing: 
-    -Fiction: "writing"
+    - Fiction: "writing"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
