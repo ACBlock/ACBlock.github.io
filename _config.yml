@@ -19,7 +19,8 @@ description: A place for interesting things
 navbar-links:
   About Me: "aboutme"
   Resume: "/assets/AndrewBlockResume-2-14-24.pdf"
-  Writing: "writing"
+  Writing: 
+    -Fiction: "writing"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
