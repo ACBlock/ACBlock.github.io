@@ -10,8 +10,8 @@ title: Writing
 **Note:** These stories are works in progress and are subject to change.
 
 ### The Incident at Jewel Lake
-This is a story that I am writing as a part of Troy Wilderson's Short Story Nitty Gritty class taught through The Loft in Minneapolis. It will be updated weekly as I make new submissions. The name is subject to change.
-[The Incident at Jewel Lake](assets/Block_Week 4.pdf)
+This is a story that I am writing as a part of Troy Wilderson's Short Story Nitty Gritty class taught through The Loft in Minneapolis. It will be updated weekly as I make new submissions. The name is subject to change. The most recent upload represents the completed story, revised by myself. I have not recevied feedback on this story yet, and is subject to changes as I receive feedback.
+[The Incident at Jewel Lake](assets/Block_Week 7.pdf)
 
 
 ### Cold Nights at the Observatory
