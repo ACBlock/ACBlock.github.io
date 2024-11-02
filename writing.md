@@ -23,3 +23,6 @@ This is a short story that I wrote while in college, based on spending time at m
 This doesn't reflect my full abilities as a writer and I will be updating it as I have time.
 [Cold Nights at the Observatory](assets/ColdNight.pdf)
 
+#### Copyright Notice
+© Andrew Block, 2024. All rights reserved. This work is the property of Andrew Block and is protected under copyright law. Readers are welcome to download and enjoy the content for personal use, but redistribution or use for commercial purposes is prohibited without explicit permission from the author.
+Please contact andrew.block59@gmail.com for inquiries about permissions or licensing
