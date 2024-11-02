@@ -9,9 +9,9 @@ title: Writing
 {: .box-note}
 **Note:** These stories are works in progress and are subject to change.
 
-### The Incident at Jewel Lake
-This is a story that I am writing as a part of Troy Wilderson's Short Story Nitty Gritty class taught through The Loft in Minneapolis. It will be updated weekly as I make new submissions. The name is subject to change. The most recent upload represents the completed story, revised by myself. I have not recevied feedback on this story yet, and is subject to changes as I receive feedback.
-[The Incident at Jewel Lake](assets/Block_Week 7.pdf)
+### Potential Spam
+This is a story that I wrote as a part of Troy Wilderson's Short Story Nitty Gritty class taught through The Loft in Minneapolis. It will be updated weekly as I make new submissions. The name is subject to change. The most recent upload represents the completed story, with revisions made following suggestions from friends.
+[Potential Spam](assets/Block_Week 7.pdf)
 
 ### Hunger
 This is the story that I am currently actively working on. It is not nearly complete, with only a page and a quarter written so far.
