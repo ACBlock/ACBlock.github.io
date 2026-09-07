@@ -1,4 +1,4 @@
- Most creative endeavors are neither good or bad. My average rating for a book - according to my Storygraph account - is 3.33 stars on a scale from 0.25 to 5. My rating scale is fairly straightforward:
+ Most creative endeavors are neither good or bad. My average rating for a book - according to my Storygraph account - is 3.25 stars on a scale from 0.25 to 5. My rating scale is fairly straightforward:
 
     1 star and under - Not worth reading for any reason.
 
