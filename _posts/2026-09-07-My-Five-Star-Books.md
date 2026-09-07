@@ -34,8 +34,6 @@ Then there are the five star books. I never know a five star book right off the 
          alt="Cover of Exhalation by Ted Chiang (Alfred A. Knopf, 2019). © Alfred A. Knopf.">
 </figure>
 
-<small>Cover of Exhalation by Ted Chiang (Alfred A. Knopf, 2019). © Alfred A. Knopf.</small>.
-
 My introduction (as was many people’s, I assume) to Ted Chiang was the 2016 film Arrival, my personal favorite film. Based on his 1998 novella “Story of Your Life“, it was life changing. I think about that film as much as I breathe. The collection it is included in is also a great work of fiction. It’s some of the best science fiction written, in my opinion. But “Stories of You Life” isn’t a five star read for me (it’s four). This is his 2019 collection “Exhalation”.
 
 Every story in “Exhalation” is perfectly human. Science fiction has a reputation among some as being cold and detached, focused on spectacle and grand ideas. While some authors attempt to buck this trend (Becky Chambers immediately comes to mind), Chiang does it best. From a brief story about a parrot sharing its species last words with humanity, to a (relatively) sprawling novella about a race of digital creatures being thrust into the world, Chiang keeps everything grounded. Each story creates a world that is strikingly different from out own, but keeps each one relatable through empathetic characters and just enough connection to our world to keep things from getting too out of control.
