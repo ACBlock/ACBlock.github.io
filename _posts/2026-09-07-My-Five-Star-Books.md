@@ -11,10 +11,8 @@
     5 Stars - I can’t stop thinking about these books 
 
 Since I began tracking my reading a few years back, my rating distribution for those 119 books looks like this:
-<figure>
-  <img src="https://github.com/user-attachments/assets/8e51f123-9f98-415f-9804-3443cf54acfb" alt="Book Rankings">
-  <figcaption>My Book Rankings Fating back to 2023 or so.</figcaption>
-</figure>
+<img width="886" height="438" alt="image" src="https://github.com/user-attachments/assets/637cc1e4-1890-4fe8-acd2-155e4866920d" />
+
 
 
 
