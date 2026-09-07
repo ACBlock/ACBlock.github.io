@@ -71,3 +71,8 @@ This might read like the book is disjointed, like it can't tell what it wants to
 This might be the book I can say the least about. Its plot is so intrinsically tied to its philosophy that all I can do is to give you the synopsis, tell you to please stick with it, and hope that it lands.
 
 The ending of this book is of particular note. I won't say anything here for obvious reasons, but it's the primary reason I keep coming back to this book. I re-read it at least once a year, in the hopes that I will have a break through, that the ending will become clear. Following my re-read earlier this summer, I am no closer to an understanding. I don't know if there is an understanding to come to. I don't think it matters.
+
+## A Short Stay in Hell - Steven L Peck
+ <img src="https://github.com/user-attachments/assets/d864c1a9-0590-4676-916b-7f3f0c6f03cc"  alt="Fisherman Cover" style="width:200px;"/>
+ 
+<small>Cover of A Short Stay in Hell by Stevan L Peck. Copyright 2009, Strange Violin Editions</small>
