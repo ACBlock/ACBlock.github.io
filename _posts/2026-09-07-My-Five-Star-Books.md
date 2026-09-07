@@ -15,7 +15,7 @@ Since I began tracking my reading a few years back, my rating distribution for t
 <figure>
     <img src="https://github.com/user-attachments/assets/637cc1e4-1890-4fe8-acd2-155e4866920d"
          alt="Book Rankings">
-    <figcaption>My Book Rankings, Dating to mid 2023.</figcaption>
+    <center><figcaption>My Book Rankings, Dating to mid 2023.</figcaption></center>
 </figure>
 
 
