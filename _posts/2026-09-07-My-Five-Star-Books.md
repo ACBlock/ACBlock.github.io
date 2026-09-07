@@ -27,7 +27,7 @@ The four stars are books that take a step beyond, introduce great ideas, have an
 
 Then there are the five star books. I never know a five star book right off the bat. A five star book must stick with me. A five star book always starts out as a four star and my virtue of me not being able to get it out of my head, I elevate it to five stars. A five star book evokes emotion and breaks me down. A five star book makes me want to talk about it, force other people to sit down and read it just so someone can relate to me. Five star books are rare. Appropriately, I currently have five of them. They are what I want to write about today. In no particular order:
 ## Exhalation: Stories - Ted Chiang
-<img width="292" height="450" alt="image" src="https://github.com/user-attachments/assets/043b76bf-6c03-4aaf-bd43-b121c743008d" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/043b76bf-6c03-4aaf-bd43-b121c743008d" />
 
 <small>Cover of Exhalation by Ted Chiang. Copyright 2019, Alfred A. Knopf</small>
 
@@ -39,5 +39,6 @@ Every story in “Exhalation” is perfectly human. Science fiction has a reputa
 For my money, the stand out story is the final story in the collection, titled “Anxiety is the Dizziness of Freedom“. A woman who works at a cyber cafe selling access to these parallel worlds is made aware that a man in a support group for people struggling with this new technology has access to a parallel world that she believes may be particularly valuable. This short story discusses loss, grief, what humans owe to one another, and forgiveness while maintaining its sleek sci-fi trappings. That's really the story of the entire collection. You come in expecting new worlds and incredible technologies. And you get that. But you also get smart, grounded, and achingly human literature. Any story in this collection could make a list of great sci-fi and you get nine of them in one package.
 
  ## Project Hail Mary - Andy Weir
- <img src="https://github.com/user-attachments/assets/7aa99125-c51a-41fd-add6-2f48e38bbf84" alt="drawing" style="width:200px;"/>
+ <img src="https://github.com/user-attachments/assets/7aa99125-c51a-41fd-add6-2f48e38bbf84" alt="PHM Cover" style="width:200px;"/>
+ 
 <small>Cover of Project Hail Mary by Andy Weir. Copyright 2021, Ballentine Books</small>
