@@ -28,13 +28,10 @@ The four stars are books that take a step beyond, introduce great ideas, have an
 Then there are the five star books. I never know a five star book right off the bat. A five star book must stick with me. A five star book always starts out as a four star and my virtue of me not being able to get it out of my head, I elevate it to five stars. A five star book evokes emotion and breaks me down. A five star book makes me want to talk about it, force other people to sit down and read it just so someone can relate to me. Five star books are rare. Appropriately, I currently have five of them. They are what I want to write about today. In no particular order:
 ## Exhalation - Ted Chiang
 
-| !"https://github.com/user-attachments/assets/270dd60a-d04f-40c0-87f9-5327ef881233" | 
-|:--:| 
-| *Space* |
 <figure>
     <img src="https://github.com/user-attachments/assets/270dd60a-d04f-40c0-87f9-5327ef881233"
          alt="Cover of Exhalation by Ted Chiang (Alfred A. Knopf, 2019). © Alfred A. Knopf."
-     caption="Cover of Exhalation by Ted Chiang (Alfred A. Knopf, 2019). © Alfred A. Knopf.">
+     <figcaption>"Cover of Exhalation by Ted Chiang (Alfred A. Knopf, 2019). © Alfred A. Knopf."</figcaption>
 </figure>
 
 My introduction (as was many people’s, I assume) to Ted Chiang was the 2016 film Arrival, my personal favorite film. Based on his 1998 novella “Story of Your Life“, it was life changing. I think about that film as much as I breathe. The collection it is included in is also a great work of fiction. It’s some of the best science fiction written, in my opinion. But “Stories of You Life” isn’t a five star read for me (it’s four). This is his 2019 collection “Exhalation”.
