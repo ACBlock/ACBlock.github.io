@@ -47,4 +47,9 @@ Project Hail Mary requires little introduction at this point. Andy Weir has esta
 
 One top of all the typical praise that I have for this book, what really gets me is the non-linear way in which the reader is told the story. If you've only ever seen the film, reading the book is a treat. Getting Grace's internal monologue as we hop from present day on the Hail Mary to the past as Grace and Co. prep for the launch, studying astrophage, prepping every possible aspect builds up his character in such a way that once you get to the 75% point of the book and learn a major character point (hopefully that's spoiler free enough), there are so many emotions and thoughts to have about his character but there's no time. You gotta save the world first, then you can process. It's brilliantly done and I love it to death. This is a phenomenal book. If you have seen the film, but not read the book, do yourself a favor and hit up your library. The audiobook, narrated by RC Bray, is also absolutely wonderful.
 
+## The Fisherman - John Langan
+<img width="267" height="400" alt="image" src="https://github.com/user-attachments/assets/54037483-9172-4d99-a64d-1979bfa4fb09" />
 
+ <img src="https://github.com/user-attachments/assets/54037483-9172-4d99-a64d-1979bfa4fb09"  alt="PHM Cover" style="width:200px;"/>
+ 
+<small>Cover of Project Hail Mary by Andy Weir. Copyright 2021, Ballentine Books</small>
