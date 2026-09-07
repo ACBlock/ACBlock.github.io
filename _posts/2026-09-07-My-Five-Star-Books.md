@@ -28,7 +28,7 @@ The four stars are books that take a step beyond, introduce great ideas, have an
 Then there are the five star books. I never know a five star book right off the bat. A five star book must stick with me. A five star book always starts out as a four star and my virtue of me not being able to get it out of my head, I elevate it to five stars. A five star book evokes emotion and breaks me down. A five star book makes me want to talk about it, force other people to sit down and read it just so someone can relate to me. Five star books are rare. Appropriately, I currently have five of them. They are what I want to write about today. In no particular order:
 ## Exhalation: Stories - Ted Chiang
  <img src="https://github.com/user-attachments/assets/043b76bf-6c03-4aaf-bd43-b121c743008d"  alt="Exhalation Cover" style="width:200px;"/>
-#<img width="292" height="450" alt="image" src="https://github.com/user-attachments/assets/043b76bf-6c03-4aaf-bd43-b121c743008d" />
+
 
 <small>Cover of Exhalation by Ted Chiang. Copyright 2019, Alfred A. Knopf</small>
 
