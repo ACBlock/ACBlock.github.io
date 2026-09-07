@@ -41,15 +41,13 @@ For my money, the stand out story is the final story in the collection, titled â
 ## Project Hail Mary - Andy Weir
  <img src="https://github.com/user-attachments/assets/7aa99125-c51a-41fd-add6-2f48e38bbf84" alt="PHM Cover" style="width:200px;"/>
  
-<small>Cover of Project Hail Mary by Andy Weir. Copyright 2021, Ballentine Books</small>
+<small>Cover of Project Hail Mary by Andy Weir. Copyright 2021, Ballantine Books</small>
 
 Project Hail Mary requires little introduction at this point. Andy Weir has established himself as a modern day cornerstone of science fiction with his books "The Martian" and "Project Hail Mary" (Ignore 2017's "Artemis", just pretend it isn't there). There's only so much I can add to the discourse about this book at this stage. The science is woven in seamlessly, the (main) characters are memorable and fun, the problem solving is engaging and written in a way that makes the reader feel like they could have come up with the solutions themselves. This book pushes every single button that I need it to push. Ever since I read this book, it has become my benchmark for First Contact stories. Project Hail Mary holds the distinction of being one of only two books I've read as an adult that has made me emotional enough to cry.
 
 One top of all the typical praise that I have for this book, what really gets me is the non-linear way in which the reader is told the story. If you've only ever seen the film, reading the book is a treat. Getting Grace's internal monologue as we hop from present day on the Hail Mary to the past as Grace and Co. prep for the launch, studying astrophage, prepping every possible aspect builds up his character in such a way that once you get to the 75% point of the book and learn a major character point (hopefully that's spoiler free enough), there are so many emotions and thoughts to have about his character but there's no time. You gotta save the world first, then you can process. It's brilliantly done and I love it to death. This is a phenomenal book. If you have seen the film, but not read the book, do yourself a favor and hit up your library. The audiobook, narrated by RC Bray, is also absolutely wonderful.
 
 ## The Fisherman - John Langan
-<img width="267" height="400" alt="image" src="https://github.com/user-attachments/assets/54037483-9172-4d99-a64d-1979bfa4fb09" />
-
- <img src="https://github.com/user-attachments/assets/54037483-9172-4d99-a64d-1979bfa4fb09"  alt="PHM Cover" style="width:200px;"/>
+ <img src="https://github.com/user-attachments/assets/54037483-9172-4d99-a64d-1979bfa4fb09"  alt="Fisherman Cover" style="width:200px;"/>
  
-<small>Cover of Project Hail Mary by Andy Weir. Copyright 2021, Ballentine Books</small>
+<small>Cover of The Fisherman by John Langan. Copyright 2016, Word Horde</small>
