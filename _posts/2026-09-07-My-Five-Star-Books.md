@@ -58,3 +58,9 @@ One top of all the typical praise that I have for this book, what really gets me
 The middle third is where things get interesting. Prior to this, "The Fisherman" is a well written, maybe slightly unexciting, examination of the emotions that accompany loss. That changes when Dan learns of a little known creek (Dutchman's Creek) and suggests to Abe that they give it a shot. We're treated to the bloody and disturbing history of the creek, the people who once called the area home, and what Abe and Dan might be in for if they go through with their plan to fish. 
 
 "The Fisherman" admittedly breaks my scale a bit. While I do think about this book often and I love how it shows two very different approaches to managing grief, I will say that this is not a book for everyone. There's a story in a story structure that not everyone will find compelling. If you really, really hate the idea of fishing the first act will put you off. But if you stick with it, if you live with the characters and let them share their pain with you, I think you will have a new benchmark for horror literature. A word of warning: This is not a very long book, but don't blaze through it. Let it sit with you, read a bit before bed, chew on it. Really enter the world you've been invited into. This is not the type of horror with a scare a minute, something to be consumed in a few hours. This is a controlled burn.
+
+
+## The Anomaly - Herve Le Tellier
+ <img src="https://github.com/user-attachments/assets/eabefd9e-e8ee-41b9-b7fb-56f844920cb4"  alt="Fisherman Cover" style="width:200px;"/>
+ 
+<small>Cover of The Anomaly by Herve Le Tellier. Copyright 2020, Éditions Gallimard</small>
