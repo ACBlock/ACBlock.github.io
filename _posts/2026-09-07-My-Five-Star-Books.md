@@ -39,5 +39,5 @@ Every story in “Exhalation” is perfectly human. Science fiction has a reputa
 For my money, the stand out story is the final story in the collection, titled “Anxiety is the Dizziness of Freedom“. A woman who works at a cyber cafe selling access to these parallel worlds is made aware that a man in a support group for people struggling with this new technology has access to a parallel world that she believes may be particularly valuable. This short story discusses loss, grief, what humans owe to one another, and forgiveness while maintaining its sleek sci-fi trappings. That's really the story of the entire collection. You come in expecting new worlds and incredible technologies. And you get that. But you also get smart, grounded, and achingly human literature. Any story in this collection could make a list of great sci-fi and you get nine of them in one package.
 
  ## Project Hail Mary - Andy Weir
-<img width="994" height="1500" alt="image" src="https://github.com/user-attachments/assets/7aa99125-c51a-41fd-add6-2f48e38bbf84" />
+ <img src="https://github.com/user-attachments/assets/7aa99125-c51a-41fd-add6-2f48e38bbf84" alt="drawing" style="width:200px;"/>
 <small>Cover of Project Hail Mary by Andy Weir. Copyright 2021, Ballentine Books</small>
