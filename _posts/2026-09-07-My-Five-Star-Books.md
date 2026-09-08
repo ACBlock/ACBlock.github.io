@@ -79,6 +79,6 @@ The ending of this book is of particular note. I won't say anything here for obv
 
 A Short Stay in Hell lives up to its name - this is the shortest book on the list. The text clocks in at about 110 pages and the audio at about four hours, if you go that route. Despite its size, I think that this is the book that's stuck with me the most. The gist is relatively straightforward: A Mormon man (his religion is pertinent to the text) named Soren Johansen dies and instead of going to the afterlife described in the Mormon belief system, he find himself in front a "demon", a "minor functionary" to use the demon's own words, from the Zoroastrian religion. He's not in hell, not yet. He's in hell's waiting room, along with a handful of others. Eventually, Soren finds himself in his true hell: a library containing every book that could possibly be written and can be contained within 400 pages, 40 lines per page, 80 characters per line. To escape hell, Soren must find the book that perfectly describes his life down to the grammar and punctuation being correct.
 
-{:.box-note} Note: You may recognize this as the Library of Babel from the short story of the same name by Jorde Luis Broges, which is excellent in its own right.
+:memo: **Note:** You may recognize this as the Library of Babel from the short story of the same name by Jorde Luis Broges, which is excellent in its own right.
 
 A Short Stay in Hell is a lesson in large numbers. It's a lesson in what huamns can endure. It's a story about love and holding on to love across vast distances of time and space
