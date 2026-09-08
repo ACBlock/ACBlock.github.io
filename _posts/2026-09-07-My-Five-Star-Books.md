@@ -21,7 +21,7 @@ Since I began tracking my reading a few years back, my rating distribution for t
 
 
 
-54 of these books fall in the three star range. My addition of a decimal to these books is largely arbitrary, so for my purposes here I’ll lump them all together. The three star books make up the largest segment of the chart, followed by the four star reviews. This makes sense - I don’t read books that I don’t think I will enjoy. Three star books are fine books. They are competently written, have engaging enough plots, and mostly well defined characters. Their placement in that bucket is no slight against them. Not every book can be a great book.
+54 of these books fall in the three star range. I'm not consistent with decimal points. The definition of what makes a book a 3.25 or 3.5 is very much based on vibes and how I feel after finishing a book. For my purposes here, I care only about the digit to the left of the decimal point. The three star books make up the largest segment of the chart, followed by the four star reviews. This amount of skew makes sense - I don’t read books that I don’t think I will enjoy. Three star books are fine books. They are competently written, have engaging enough plots, and mostly well defined characters. Their placement in that bucket is no slight against them. Not every book can be a great book.
 
 The four stars are books that take a step beyond, introduce great ideas, have an epic scope, or have characters who I care about in a much deeper way than a three star book. These are books that I will recommend to you sight unseen - if you’re in the market for a new book, I would feel comfortable recommending one of these to you.
 
