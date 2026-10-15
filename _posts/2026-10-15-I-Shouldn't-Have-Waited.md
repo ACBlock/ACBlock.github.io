@@ -9,4 +9,4 @@ tags: [books]
 author: Andy Block
 ---
 
-I was first made aware of Tom Sweterlitsch's "The Gone World" a number of years after it was published, in the fall of 2024. I immediately disregarded it.
+I was first made aware of Tom Sweterlitsch's "The Gone World" a number of years after it was published, in the fall of 2024. I immediately disregarded it. The summary from the back of the book did absolutely nothing for me at the time.
