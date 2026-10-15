@@ -2,7 +2,7 @@
 layout: post
 title: I Shouldn't Have Waited
 subtitle: The Gone World Absolutely Rips
-cover-img: "https://github.com/user-attachments/assets/e39ed807-0d32-484e-80c5-365b5882f3b8"
+cover-img:
 thumbnail-img: "https://github.com/user-attachments/assets/e39ed807-0d32-484e-80c5-365b5882f3b8"
 share-img:
 tags: [books]
