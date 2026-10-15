@@ -2,11 +2,11 @@
 layout: post
 title: My Five Star Books
 subtitle: Books to Last a Lifetime
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+cover-img:
+thumbnail-img:
+share-img:
+tags: [books]
+author: Andy Block
 ---
  Most creative endeavors are neither good or bad. My average rating for a book - according to my Storygraph account - is 3.25 stars on a scale from 0.25 to 5. My rating scale is fairly straightforward:
 
