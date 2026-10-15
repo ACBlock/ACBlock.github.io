@@ -24,6 +24,3 @@ From the publisher:
 >cataclysmic end of humanity itself.
 
 >Luminous and unsettling, The Gone World bristles with world-shattering ideas yet remains at its heart an intensely human story.
-> 💡 **Aside:** This is an aside. Use it to share a quick tangent, a fun fact, 
-> or some extra context that isn't strictly necessary for the main argument 
-> but adds value for the reader.
