@@ -2,8 +2,8 @@
 layout: post
 title: I Shouldn't Have Waited
 subtitle: The Gone World Absolutely Rips
-cover-img: src="https://github.com/user-attachments/assets/e39ed807-0d32-484e-80c5-365b5882f3b8"
-thumbnail-img: src="https://github.com/user-attachments/assets/e39ed807-0d32-484e-80c5-365b5882f3b8"
+cover-img: "https://github.com/user-attachments/assets/e39ed807-0d32-484e-80c5-365b5882f3b8"
+thumbnail-img: "https://github.com/user-attachments/assets/e39ed807-0d32-484e-80c5-365b5882f3b8"
 share-img:
 tags: [books]
 author: Andy Block
